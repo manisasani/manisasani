@@ -11,7 +11,17 @@
 ```python
 class ManiSasani:
     def __init__(self):
-        self.stack = [ "Python", "Django", "Django REST Framework", "PostgreSQL", "Redis",                               "Celery", "Docker", "Git", "GitHub Actions" ]
+        self.stack = [
+            "Python",
+            "Django",
+            "Django REST Framework",
+            "PostgreSQL",
+            "Redis",
+            "Celery",
+            "Docker",
+            "Git",
+            "GitHub Actions"
+    ]
         self.focus = "Building real-world backend systems and REST APIs"
         self.status = "Always learning, always building"
 
