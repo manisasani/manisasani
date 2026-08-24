@@ -11,9 +11,9 @@
 ```python
 class ManiSasani:
     def __init__(self):
-        self.stack = ["Python", "Django", "HTML", "CSS", "JavaScript", "Bootstrap", "SQL", "Docker", "Git"]
-        self.focus = "Building real-world apps that solve real-world problems"
-        self.status = "Always learning, always coding"
+        self.stack = [ "Python", "Django", "Django REST Framework", "PostgreSQL", "Redis",                               "Celery", "Docker", "Git", "GitHub Actions" ]
+        self.focus = "Building real-world backend systems and REST APIs"
+        self.status = "Always learning, always building"
 
     def say_hi(self):
         return "Crafted with curiosity, powered by code!💡"
